@@ -3,3 +3,4 @@ checkpoints_cyclegan
 samples_cyclegan
 __pycache__
 shape_predictor_68_face_landmarks.dat
+.ipynb_checkpoints
